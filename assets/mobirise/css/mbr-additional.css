@@ -476,10 +476,12 @@ h6,
   color: #c0a375!important;
 }
 #header5-6 .mbr-section-title {
-  color: #000;
+  color: #2969b0;
+  text-align: right;
 }
 #header5-6 .mbr-section-lead {
-  color: #9c9a9a;
+  color: #3d8eb9;
+  text-align: right;
 }
 #footer1-2 P {
   text-align: right;
