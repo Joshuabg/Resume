@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "home.html",
+    "currentPage": "workexperience.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 26,
+    "uniqCompNum": 32,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": ""
@@ -449,6 +449,135 @@
       },
       "components": [
         {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials2",
+          "testimonial": [
+            {
+              "text": "<p>Implemented Core banking software BRAINS 2000 in Vijaya Bank</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face3.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "Abanoub S.",
+              "authorBio": "User"
+            }
+          ],
+          "_anchor": "testimonials2-t",
+          "_params": {
+            "count": "1",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showImages": false,
+            "showName": false,
+            "showBio": false,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/sky.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubtitle": true
+          },
+          "title": "Accenture Financials",
+          "subtitle": "July 2013 to January 2016<br>Core Banking (Flexcube / Oracle Banking Product) &nbsp;| SME"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials2",
+          "testimonial": [
+            {
+              "text": "<p>Implemented Core banking software BRAINS 2000 in Vijaya Bank</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face3.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "Abanoub S.",
+              "authorBio": "User"
+            }
+          ],
+          "_anchor": "testimonials2-u",
+          "_params": {
+            "count": "1",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showImages": false,
+            "showName": false,
+            "showBio": false,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/sky.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubtitle": true
+          },
+          "title": "Oracle Financials Services",
+          "subtitle": "January 2007 to March 2013<br>Senior Technical Consultant | Oracle Flexcube"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials2",
+          "testimonial": [
+            {
+              "text": "<p>Implemented Core banking software BRAINS 2000 in Vijaya Bank</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face3.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "Abanoub S.",
+              "authorBio": "User"
+            }
+          ],
+          "_anchor": "testimonials2-v",
+          "_params": {
+            "count": "1",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showImages": false,
+            "showName": false,
+            "showBio": false,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/sky.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubtitle": true
+          },
+          "title": "CMC Limited",
+          "subtitle": "July 2004 to December 2006<br>Technical Consultant"
+        },
+        {
           "_name": "footer1",
           "_styles": {
             "P": {
@@ -474,15 +603,58 @@
           "_tags": [
             "Theme"
           ],
+          "_name": "testimonials2",
+          "testimonial": [
+            {
+              "text": "<p>Managing and Leading Core Banking (Flexcube) and Digital Banking</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face3.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "Abanoub S.",
+              "authorBio": "User"
+            }
+          ],
+          "_anchor": "testimonials2-r",
+          "_params": {
+            "count": "1",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/sky.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubtitle": true,
+            "showImages": false,
+            "showName": false,
+            "showBio": false
+          },
+          "title": "Mashreq Bank",
+          "subtitle": "January 2016 to Till Date<br>Core and Digital Banking | Delivery Lead"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
           "_name": "features3",
           "_anchor": "features3-o",
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "3",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
+            "bgColor": "#ffffff",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -493,17 +665,21 @@
             "overlayColor": "#222",
             "columns": 4,
             "showImages": true,
-            "showTitles": true,
-            "showSubtitles": true,
-            "ShowTexts": true,
-            "showButtons": true
+            "showTitles": false,
+            "showSubtitles": false,
+            "ShowTexts": false,
+            "showButtons": false
           },
           "media1": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/table.jpg",
+              "src": "@PROJECT_PATH@/assets/images/cmc-600x463.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "workexperience.html#testimonials2-r",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "title1": "CMC Limited",
@@ -512,10 +688,14 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/ofss-600x233.png",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "workexperience.html#testimonials2-v",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "title2": "Oracle Financials Services",
@@ -524,10 +704,14 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "src": "@PROJECT_PATH@/assets/images/accc-600x254.png",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "workexperience.html#testimonials2-u",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "title3": "Accenture Financials",
@@ -536,14 +720,18 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mashreq-600x139.png",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "workexperience.html#testimonials2-r",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "title4": "Mashreq Bank",
-          "subtitle4": "January 2016 to Till date",
+          "subtitle4": "J<b>anuary 2016 to Till date</b>",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
