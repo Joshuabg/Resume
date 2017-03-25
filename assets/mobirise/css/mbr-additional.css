@@ -481,25 +481,6 @@ h6,
 #header5-6 .mbr-section-lead {
   color: #9c9a9a;
 }
-#contacts5-h p,
-#contacts5-h .list-group-text,
-#contacts5-h .form-control-label {
-  color: #000;
-}
-#contacts5-h strong,
-#contacts5-h h4 {
-  color: #7e9b9f;
-}
-#contacts5-h form .form-control {
-  border-color: rgba(0, 0, 0, 0.2);
-  color: #565656;
-}
-#contacts5-h .mbr-footer-content li {
-  border-bottom: 1px dotted rgba(0, 0, 0, 0.1);
-}
-#contacts5-h .mbr-company .list-group-text::after {
-  border-bottom: 1px dotted rgba(0, 0, 0, 0.2);
-}
 #footer1-2 P {
   text-align: right;
 }
