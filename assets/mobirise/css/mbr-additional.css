@@ -557,19 +557,38 @@ h6,
 }
 #ext_menu-d .link[aria-expanded="true"],
 #ext_menu-d .dropdown-item[aria-expanded="true"] {
-  color: #c0a375 !important;
+  color: #c0a375!important;
+}
+#header5-w .mbr-section-title {
+  color: #000;
+  font-size: 60px;
+}
+#header5-w .mbr-section-lead {
+  color: #9c9a9a;
 }
 #testimonials2-r .card-block P {
   text-align: left;
 }
+#testimonials2-r .mbr-section-title {
+  font-size: 36px;
+}
 #testimonials2-t .card-block P {
   text-align: left;
+}
+#testimonials2-t .mbr-section-title {
+  font-size: 36px;
 }
 #testimonials2-u .card-block P {
   text-align: left;
 }
+#testimonials2-u .mbr-section-title {
+  font-size: 36px;
+}
 #testimonials2-v .card-block P {
   text-align: left;
+}
+#testimonials2-v .mbr-section-title {
+  font-size: 36px;
 }
 #footer1-k P {
   text-align: right;
