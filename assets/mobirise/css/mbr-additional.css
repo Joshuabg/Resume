@@ -422,6 +422,9 @@ h6,
   color: #3d8eb9;
   text-align: right;
 }
+#header5-6 .mbr-section-title SPAN {
+  text-align: right;
+}
 #footer1-2 P {
   text-align: right;
 }
@@ -494,6 +497,18 @@ h6,
 }
 #footer1-i P {
   text-align: right;
+}
+#testimonials2-r .card-block P {
+  text-align: left;
+}
+#testimonials2-t .card-block P {
+  text-align: left;
+}
+#testimonials2-u .card-block P {
+  text-align: left;
+}
+#testimonials2-v .card-block P {
+  text-align: left;
 }
 #footer1-k P {
   text-align: right;
