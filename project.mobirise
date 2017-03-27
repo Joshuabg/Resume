@@ -390,6 +390,11 @@
             "Theme"
           ],
           "_name": "testimonials2",
+          "_styles": {
+            ".card-block P": {
+              "text-align": "left"
+            }
+          },
           "testimonial": [
             {
               "text": "<p>Masters of Business Administration (MBA)</p><p>Don Bosco University, Assam |&nbsp;<span style=\"font-size: 1.125rem; line-height: 2;\">2012-2014</span></p>",
@@ -425,6 +430,9 @@
             "count": "2",
             "paddingTop": "1",
             "paddingBottom": "0",
+            "showImages": false,
+            "showName": false,
+            "showBio": false,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/sky.jpg",
@@ -434,24 +442,21 @@
             "overlayOpacity": 0.2,
             "overlayColor": "#222",
             "showTitle": false,
-            "showSubtitle": false,
-            "showImages": false,
-            "showName": false,
-            "showBio": false
+            "showSubtitle": false
           },
           "title": "WHAT OUR FANTASTIC USERS SAY",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
-          "_styles": {
-            ".card-block P": {
-              "text-align": "left"
-            }
-          }
+          "subtitle": "Shape your future web project with sharp design and refine coded functions."
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "testimonials2",
+          "_styles": {
+            ".card-block": {
+              "text-align": "left"
+            }
+          },
           "testimonial": [
             {
               "text": "<p>Pre University College (Commerce)</p><p>Karnataka University | 1999-2001</p>",
@@ -487,6 +492,9 @@
             "count": "2",
             "paddingTop": "1",
             "paddingBottom": "0",
+            "showImages": false,
+            "showName": false,
+            "showBio": false,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/sky.jpg",
@@ -496,24 +504,21 @@
             "overlayOpacity": 0.2,
             "overlayColor": "#222",
             "showTitle": false,
-            "showSubtitle": false,
-            "showImages": false,
-            "showName": false,
-            "showBio": false
+            "showSubtitle": false
           },
           "title": "WHAT OUR FANTASTIC USERS SAY",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
-          "_styles": {
-            ".card-block": {
-              "text-align": "left"
-            }
-          }
+          "subtitle": "Shape your future web project with sharp design and refine coded functions."
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "testimonials2",
+          "_styles": {
+            ".card-block P": {
+              "text-align": "left"
+            }
+          },
           "testimonial": [
             {
               "text": "<p>ITIL® 2011 Foundation Examination<span style=\"font-size: 1.125rem; line-height: 2;\">&nbsp;</span></p><p><span style=\"font-size: 1.125rem; line-height: 2;\">APM Group | License IN.15.11025</span></p>",
@@ -535,6 +540,9 @@
             "count": "1",
             "paddingTop": "1",
             "paddingBottom": "0",
+            "showImages": false,
+            "showName": false,
+            "showBio": false,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/sky.jpg",
@@ -544,18 +552,10 @@
             "overlayOpacity": 0.2,
             "overlayColor": "#222",
             "showTitle": false,
-            "showSubtitle": false,
-            "showImages": false,
-            "showName": false,
-            "showBio": false
+            "showSubtitle": false
           },
           "title": "WHAT OUR FANTASTIC USERS SAY",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
-          "_styles": {
-            ".card-block P": {
-              "text-align": "left"
-            }
-          }
+          "subtitle": "Shape your future web project with sharp design and refine coded functions."
         },
         {
           "_tags": [
