@@ -18,11 +18,11 @@
         "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": true,
-        "isRtl": false
+        "isRtl": true
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 77,
+    "uniqCompNum": 86,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": ""
@@ -630,6 +630,13 @@
           "text": "Copyright (c) 2017."
         }
       ]
+    },
+    "page1.html": {
+      "settings": {
+        "title": "Website Creator Title",
+        "meta_descr": "Website Creator Description"
+      },
+      "components": []
     }
   }
 }
